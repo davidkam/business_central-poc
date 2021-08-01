@@ -1,0 +1,8 @@
+{  
+  "baseUrl": "",
+  "resource": "",
+  "tenant" : "",
+  "authorityHostUrl" : "",
+  "clientId" : "",
+  "clientSecret" : "",
+}
